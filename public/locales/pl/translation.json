@@ -1,0 +1,155 @@
+
+{
+    "bonus": "Bonus 100% ograniczony do pierwszych 500 depozytów.",
+    "About": "O nas",
+    "Tokenomics": "Tokenomika",
+    "Audit": "Audyt",
+    "Roadmap": "Mapa drogowa",
+    "whitePaper": "Whitepaper",
+    "PRESALE IS LIVE": "PRZEDSPRZEDAŻ TRWA",
+    "Led by the most advanced AI technology and with a burn system to potentially increase its value significantly,": "Prowadzony przez najbardziej zaawansowaną technologię AI i z systemem spalania, który potencjalnie znacząco zwiększy jego wartość, ",
+    "Baby Sinclair $CLAIR": "Baby Sinclair $CLAIR",
+    "is a powerful pro meme. Secure your chance to become the next millionaire!": "to potężny pro mem. Zabezpiecz swoją szansę, aby stać się następnym milionerem!",
+    "Buy": "Kupować",
+    "CLICK ON AVATARS TO PLAY": "KLIKNIJ NA AWATARACH, ABY GRAĆ",
+    "PRICE INCREASE IN:": "WZROST CENY W:",
+    "D": "DNI",
+    "H": "GODZ",
+    "M": "MIN",
+    "S": "SEK",
+    "Raised": "Podniesiony",
+    "YOU PAY": "PŁACISZ",
+    "YOU RECEIVE": "OTRZYMUJESZ",
+    "Your Purchase": "Twój zakup",
+    "Your Bonus": "Twój bonus",
+    "Insufficient balance": "Niewystarczający bilans",
+    "Buy Now": "Kup teraz",
+    "Buying": "Kupowanie...",
+    "Approve": "Zatwierdzać",
+    "Approving": "Zatwierdzanie...",
+    "Amount must be greater than zero": "Kwota musi być większa niż zero",
+    "Connect Wallet": "Połącz portfel",
+    "How to buy": "Jak kupić",
+    "AS SEEN IN:": "JAK WIDZIANE W:",
+    "about1": "Baby Sinclair $CLAIR powraca, przewodząc scenie jako pro mem i gotowy, by stawić czoła złym graczom sprzeciwiającym się cyfrowej rewolucji.",
+    "about2": "Gdy społeczność kryptograficzna boryka się ze swoimi wyzwaniami, Baby Sinclair pojawia się jako obrońca świata krypto, prowokując przez zabawne awatary.",
+    "about3": "Podczas przeglądania awatarów odkryjesz, że każdy ma unikalny głos, przynosząc śmiech i nutę sarkazmu jako przypomnienie, że czasami najlepszym sposobem na radzenie sobie z wyzwaniami jest dobry śmiech.",
+    "about4": "Złym graczom lepiej się przyjrzeć; obrońca krypto jest tutaj, uzbrojony w memy i gotowy do działania.",
+    "token": {
+    "title": "Tokenomika",
+    "text": "Zbudowany na blockchainie Ethereum i zasilany przez najbardziej zaawansowaną technologię AI, Baby Sinclair ma potencjał, aby uczynić milionerami zarówno we wczesnych fazach, jak i w długoterminowej inwestycji. Nasz strategiczny system spalania, który spali miliony $CLAIR co kwartał, ma na celu znaczący wzrost jego wartości. Nie przegap! Wejdź wcześnie i zabezpiecz swoją szansę, aby stać się następnym milionerem."
+    },
+    "Fully": "W pełni",
+    "Audited": "Zbadany",
+    "Secure": "Bezpieczny",
+    "securityTitle": "Odpocznij wiedząc, że $CLAIR jest:",
+    "securityValue": " INWESTUJ ZE ZDZIWENIEM.",
+    "securityRug": "ZERO MIEJSCA NA RUG PULLS:",
+    "smartTitle": "ADRES KONTRAKTU INTELIGENTNEGO",
+    "Copy": "Kopiuj",
+    "Copied": "Skopiowano",
+    "smartText": {
+    "0": "Zespół Baby Sinclair jest aktywny, aby zapewnić",
+    "1": "wpis na główne giełdy.",
+    "2": "Przed nami ekscytujące kamienie milowe."
+    },
+    "roadmap": {
+    "title": "Mapa drogowa",
+    "phese1Title": "Budowanie podstaw",
+    "PHASE": "FAZA",
+    "Team Recruitment": "Rekrutacja zespołu",
+    "Social Media Presence": "Obecność w mediach społecznościowych",
+    "Audit Smart Contract": "Audyt inteligentnego kontraktu",
+    "Whitepaper Release": "Wydanie Whitepaper",
+    "Presale Launch": "Uruchomienie Przedsprzedaży",
+    "Community Growth": "Wzrost społeczności",
+    "AI Avatars Release": "Wydanie awatarów AI",
+    "phese2Title": "Przyspieszanie tempa",
+    "Official Launch": "Oficjalne uruchomienie",
+    "Burns (5%) Implementation": "Wdrożenie Spaleń (5%)",
+    "DEX & CEX Listings": "Listy DEX & CEX",
+    "Coinmarketcap": "Coinmarketcap",
+    "CoinGecko": "CoinGecko",
+    "Influencers Marketing": "Marketing influencerów",
+    "More AI Avatars Release": "Więcej wydań awatarów AI",
+    "phese3Title": "Podtrzymywanie wzrostu i innowacji",
+    "Burns (5% quarterly)": "Spalenia (5% kwartalnie)",
+    "Rewards Program": "Program nagród",
+    "Multiple Partnerships": "Wiele partnerstw",
+    "Craft Your AI Avatar": "Utwórz swój awatar AI",
+    "AI Avatar Metaverse Play-to-Earn": "AI Avatar Metaverse Play-to-Earn"
+    },
+    "shibainuText1": "Baby Sinclair trzyma się mocno z społecznością Shiba Inu: 10% każdego sprzedanego tokena $CLAIR po przedsprzedaży zostanie przeznaczone na spalenie SHIB.",
+    "shibainuTitle": "Dołącz do nas w mediach społecznościowych, aby uzyskać ekskluzywne prezenty i pozostać w kontakcie!",
+    "Exciting Releases of ": "Ekscytujące wydania ",
+    "Bad Players": "Złe gracz",
+    "Avatars Coming Soon: ": "Awatary już wkrótce: ",
+    "Be Ready for the Fun!": "Bądź gotowy na zabawę!",
+    "Privacy": "Prywatność",
+    "Cookies": "Ciasteczka",
+    "Disclaimer": "Oświadczenie",
+    "footerInfo": "© 2024 Baby Sinclair. Wszelkie prawa zastrzeżone",
+    "Success! Token has been claimed.": "Sukces! Token został zgłoszony.",
+    "View On Etherscan": "Zobacz na Etherscan",
+    "Error! Something Went Wrong": "Błąd! Coś poszło nie tak",
+    "Already Claimed Token. Check your wallet. Thanks.": "Token już zgłoszony. Sprawdź swoją portfel. Dzięki.",
+    "Claimed": "Zgłoszony",
+    "Claimable Tokens:": "Tokeny do zgłoszenia:",
+    "Claiming...": "Zgłaszanie...",
+    "Claim Now": "Zgłoś teraz",
+    "cookies": {
+    "title": "Ciasteczka",
+    "text": "Witaj na Clairmeme.com, gdzie staramy się ulepszyć Twoje doświadczenie przeglądania w zdecentralizowanym i kryptocentrycznym świecie naszej strony internetowej. Kontynuując przeglądanie naszej strony, zgadzasz się na korzystanie z ciasteczek."
+    },
+    "what": {
+    "title": "Co to są ciasteczka?",
+    "text": "Ciasteczka to małe pliki tekstowe przechowywane na Twoim urządzeniu podczas odwiedzania naszej witryny. Pomagają nam zapamiętać konkretne szczegóły Twojej wizyty, takie jak Twoje preferencje, i umożliwiają nam optymalizację Twojego doświadczenia, szczególnie w domenie kryptowalut."
+    },
+    "how": {
+    "title": "Jak wykorzystujemy ciasteczka",
+    "Essential Cookies:": "Podstawowe ciasteczka:",
+    "These are vital for the proper functioning of our website, especially for blockchain-related features.": "Są one niezbędne do prawidłowego działania naszej witryny, zwłaszcza dla funkcji związanych z blockchainem.",
+    "Performance cookies:": "Ciasteczka wydajności:",
+    "These assist us in analysing user interactions with our cryptocurrency features, aiding us in enhancing site functionality.": "Pomagają nam analizować interakcje użytkowników z naszymi funkcjami związanymi z kryptowalutami, co pomaga nam w poprawie funkcjonalności witryny.",
+    "Third-Party Cookies:": "Ciasteczka stron trzecich:",
+    "We may incorporate third-party cookies to provide additional crypto-related services, like embedded exchange widgets or social media plugins. These cookies are managed by their respective providers and may track your activity across other sites.": "Możemy wykorzystywać ciasteczka stron trzecich, aby świadczyć dodatkowe usługi związane z kryptowalutami, takie jak wbudowane widżety wymiany walut lub wtyczki mediów społecznościowych. Te ciasteczka są zarządzane przez ich odpowiednich dostawców i mogą śledzić Twoją aktywność na innych stronach.",
+    "Crypto Cookies": "Ciasteczka krypto:",
+    "These enable us to offer personalised cryptocurrency experiences, such as remembering your wallet address or preferred tokens.": "Umożliwiają nam świadczenie spersonalizowanych doświadczeń związanych z kryptowalutami, takich jak zapamiętywanie adresu Twojej portfela lub preferowanych tokenów."
+    },
+    "managing": {
+    "title": "Zarządzanie ciasteczkami",
+    "You can manage or delete cookies through your browser settings. However, disabling essential cookies might impact the functionality of certain crypto-related features on the site.": "Możesz zarządzać lub usuwać ciasteczka za pomocą ustawień przeglądarki. Jednak wyłączenie ciasteczek podstawowych może wpłynąć na funkcjonalność określonych funkcji związanych z kryptowalutami na stronie.",
+    "If you have or this policy within the crypto context, feel free to contact us at contact@clairmeme.com.": "Jeśli masz lub tę politykę w kontekście kryptowalut, śmiało skontaktuj się z nami pod adresem contact@clairmeme.com.",
+    "If you have any inquiries or concerns regarding our use of cookies or this policy within the crypto context, feel free to contact us at contact@clairmeme.com.": "Jeśli masz jakiekolwiek pytania lub obawy dotyczące naszego korzystania z ciasteczek lub tej polityki w kontekście kryptowalut, śmiało skontaktuj się z nami pod adresem contact@clairmeme.com."
+    },
+    "privacy": {
+    "title": "Polityka prywatności",
+    "text": "Witaj na Clairmeme.com, gdzie Twoja prywatność jest dla nas najważniejsza. Ta polityka wyjaśnia, jakie informacje zbieramy od Ciebie i w jaki sposób je wykorzystujemy, zapewniając, że Twoje dane osobowe pozostaną poufne i bezpieczne. Oświadczamy, że nigdy nie ujawnimy Twoich danych osobowych osobom trzecim."
+    },
+    "collection": {
+    "title": "Zbieranie danych",
+    "text": "W naszym dążeniu do poprawy naszych usług możemy zbierać następujące informacje:",
+    "Personal Information:": "Informacje osobiste:",
+    "Your name and email, if provided by you.": "Twoje imię i adres e-mail, jeśli podane przez Ciebie.",
+    "Technical Details:": "Szczegóły techniczne:",
+    "Including your IP address and browser type.": "W tym Twoje adres IP i rodzaj przeglądarki.",
+    "Crypto Details:": "Szczegóły dotyczące kryptowalut:",
+    "Such as your wallet addresses.": "Takie jak adresy Twoich portfeli."
+    },
+    "utilisation": {
+    "title": "Wykorzystanie Twoich danych",
+    "text": "Wykorzystujemy te informacje do: Dostosowania Twojego doświadczenia z witryną, aby sprostać Twoim potrzebom. Ochrony Twoich danych, zapewniając ich bezpieczeństwo. Pozyskania wglądu w Twoje potrzeby, aby ulepszyć funkcjonalność naszej witryny."
+    },
+    "security": {
+    "title": "Bezpieczeństwo danych",
+    "text": "Bądź spokojny, stosujemy rygorystyczne środki bezpieczeństwa, aby chronić Twoje informacje."
+    },
+    "retention": {
+    "title": "Zachowanie danych",
+    "text": "Przechowujemy Twoje dane tylko przez czas niezbędny, po czym są one natychmiast usuwane. Gwarancja stron trzecich: Zobowiązujemy się nigdy nie udostępniać Twoich danych firmom zewnętrznym. Twoja prywatność jest naszym najwyższym priorytetem."
+    },
+    "connect": {
+    "title": "Skontaktuj się z nami",
+    "text": "Jeśli masz jakiekolwiek pytania lub potrzebujesz pomocy, proszę nie wahaj się skontaktować z nami pod adresem contact@clairmeme.com. Jesteśmy tutaj, aby odpowiedzieć na wszelkie pytania i zapewnić Ci spokój ducha dotyczący Twojej prywatności."
+    }
+    }

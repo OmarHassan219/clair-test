@@ -1,0 +1,155 @@
+
+{
+    "bonus": "첫 500건 입금에 대해 100% 보너스 제한됩니다.",
+    "About": "소개",
+    "Tokenomics": "토큰 이코노믹스",
+    "Audit": "심사",
+    "Roadmap": "로드맵",
+    "whitePaper": "백서",
+    "PRESALE IS LIVE": "프리세일 진행 중",
+    "Led by the most advanced AI technology and with a burn system to potentially increase its value significantly,": "가장 최첨단 인공 지능 기술을 이끌고 있으며 가치를 크게 증가시킬 가능성이 있는 연소 시스템으로 이끌고 있습니다, ",
+    "Baby Sinclair $CLAIR": "Baby Sinclair $CLAIR",
+    "is a powerful pro meme. Secure your chance to become the next millionaire!": "강력한 프로 미메입니다. 다음 백만장자가 되는 기회를 확보하세요!",
+    "Buy": "구매",
+    "CLICK ON AVATARS TO PLAY": "아바타를 클릭하여 플레이",
+    "PRICE INCREASE IN:": "가격 상승까지:",
+    "D": "일",
+    "H": "시간",
+    "M": "분",
+    "S": "초",
+    "Raised": "모금",
+    "YOU PAY": "지불",
+    "YOU RECEIVE": "받는",
+    "Your Purchase": "구매 내역",
+    "Your Bonus": "보너스",
+    "Insufficient balance": "잔액 부족",
+    "Buy Now": "지금 구매",
+    "Buying": "구매 중...",
+    "Approve": "승인",
+    "Approving": "승인 중...",
+    "Amount must be greater than zero": "금액은 0보다 커야 합니다",
+    "Connect Wallet": "지갑 연결",
+    "How to buy": "구매 방법",
+    "AS SEEN IN:": "다음에서 볼 수 있습니다:",
+    "about1": "베이비 싱클레어 $CLAIR은 다시 돌아와, 미메 프로로서 장을 이끌며 디지털 혁명을 반대하는 나쁜 플레이어들에 맞서 준비되어 있습니다.",
+    "about2": "암호화폐 커뮤니티가 여러 어려움을 겪는 가운데, 베이비 싱클레어는 암호화폐 세계의 수호자로 나타나 웃기는 아바타를 통해 도발합니다.",
+    "about3": "아바타를 탐색하는 동안 각각의 아바타가 독특한 목소리를 가지고 있어 웃음과 풍자를 불러 일으키며 때로는 도전에 대처하는 가장 좋은 방법이 웃음을 통해야 한다는 것을 상기시킵니다.",
+    "about4": "나쁜 플레이어들은 조심해야 합니다; 암호화폐 수호자가 여기 있으며 미메로 무장하고 행동 준비가 되어 있습니다.",
+    "token": {
+    "title": "토큰 이코노믹스",
+    "text": "이더리움 블록체인에 구축되고 가장 최첨단 인공 지능 기술을 기반으로 한 베이비 싱클레어는 초기 단계와 장기 투자에서 백만장자가 될 가능성을 가지고 있습니다. 매 분기 수백만 달러의 $CLAIR를 소각하는 전략적인 연소 시스템은 그 가치를 크게 증가시키기 위해 목표로 합니다. 놓치지 마세요! 일찍 참여하여 다음 백만장자가 되는 기회를 확보하세요."
+    },
+    "Fully": "완전히",
+    "Audited": "심사 완료",
+    "Secure": "보안",
+    "securityTitle": "$CLAIR를 안심하고 투자하세요:",
+    "securityValue": " 자신감 있게 투자하세요.",
+    "securityRug": "러그 풀에 대한 제로 허용 공간:",
+    "smartTitle": "스마트 계약 주소",
+    "Copy": "복사",
+    "Copied": "복사됨",
+    "smartText": {
+    "0": "베이비 싱클레어의 팀은",
+    "1": "주요 거래소에 상장을 확보하기 위해 노력하고 있습니다.",
+    "2": "흥미로운 성과가 앞으로 기다리고 있습니다."
+    },
+    "roadmap": {
+    "title": "로드맵",
+    "phese1Title": "기반 구축",
+    "PHASE": "단계",
+    "Team Recruitment": "팀 채용",
+    "Social Media Presence": "소셜 미디어 활동",
+    "Audit Smart Contract": "스마트 계약 심사",
+    "Whitepaper Release": "백서 공개",
+    "Presale Launch": "프리세일 시작",
+    "Community Growth": "커뮤니티 성장",
+    "AI Avatars Release": "AI 아바타 공개",
+    "phese2Title": "가속화된 흐름",
+    "Official Launch": "공식 발표",
+    "Burns (5%) Implementation": "소각 (5%) 시행",
+    "DEX & CEX Listings": "DEX 및 CEX 상장",
+    "Coinmarketcap": "Coinmarketcap",
+    "CoinGecko": "CoinGecko",
+    "Influencers Marketing": "인플루언서 마케팅",
+    "More AI Avatars Release": "더 많은 AI 아바타 공개",
+    "phese3Title": "성장과 혁신을 지속",
+    "Burns (5% quarterly)": "분기별 소각 (5%)",
+    "Rewards Program": "보상 프로그램",
+    "Multiple Partnerships": "다양한 파트너십",
+    "Craft Your AI Avatar": "AI 아바타 만들기",
+    "AI Avatar Metaverse Play-to-Earn": "AI 아바타 메타버스 플레이 투 어 어"
+    },
+    "shibainuText1": "베이비 싱클레어는 시바 이누 커뮤니티와 함께 강하게 서 있습니다: 프리세일 후에 판매되는 모든 $CLAIR 토큰의 10%가 시바를 소각하기 위해 헌신됩니다.",
+    "shibainuTitle": "소셜 미디어에서 독점적인 기프트 및 연결 유지를 위해 함께하세요!",
+    "Exciting Releases of ": "다음과 같은 흥미로운 발매:",
+    "Bad Players": "나쁜 플레이어들",
+    "Avatars Coming Soon: ": "곧 출시 될 아바타:",
+    "Be Ready for the Fun!": "즐거움을 위해 준비하세요!",
+    "Privacy": "개인정보",
+    "Cookies": "쿠키",
+    "Disclaimer": "면책 조항",
+    "footerInfo": "© 2024 Baby Sinclair. All rights reserved",
+    "Success! Token has been claimed.": "성공! 토큰이 청구되었습니다.",
+    "View On Etherscan": "이더스캔에서 보기",
+    "Error! Something Went Wrong": "오류! 문제가 발생했습니다",
+    "Already Claimed Token. Check your wallet. Thanks.": "이미 토큰을 청구했습니다. 지갑을 확인하세요. 감사합니다.",
+    "Claimed": "청구됨",
+    "Claimable Tokens:": "청구 가능한 토큰:",
+    "Claiming...": "청구 중...",
+    "Claim Now": "지금 청구",
+    "cookies": {
+    "title": "쿠키",
+    "text": "클레어멤닷컴에 오신 것을 환영합니다. 분산형 및 암호화폐 중심의 웹사이트에서 사용자 경험을 향상시키기 위해 쿠키의 사용에 동의합니다."
+    },
+    "what": {
+    "title": "쿠키란 무엇인가요?",
+    "text": "쿠키는 웹사이트를 방문할 때 기기에 저장되는 작은 텍스트 파일입니다. 방문하신 내용을 기억하여 사용자 환경을 최적화하고 특히 암호화폐 관련 기능을 개선하는 데 도움이 됩니다."
+    },
+    "how": {
+    "title": "우리는 어떻게 쿠키를 활용하나요",
+    "Essential Cookies:": "필수 쿠키:",
+    "These are vital for the proper functioning of our website, especially for blockchain-related features.": "이것들은 특히 블록체인 관련 기능을 위해 웹사이트의 올바른 작동에 중요합니다.",
+    "Performance cookies:": "성능 쿠키:",
+    "These assist us in analysing user interactions with our cryptocurrency features, aiding us in enhancing site functionality.": "이것들은 암호화폐 기능과 사용자 상호 작용을 분석하는 데 도움이 되어 웹사이트 기능을 향상시키는 데 도움이 됩니다.",
+    "Third-Party Cookies:": "타사 쿠키:",
+    "We may incorporate third-party cookies to provide additional crypto-related services, like embedded exchange widgets or social media plugins. These cookies are managed by their respective providers and may track your activity across other sites.": "내장된 거래소 위젯이나 소셜 미디어 플러그인과 같은 추가 암호화폐 관련 서비스를 제공하기 위해 타사 쿠키를 통합할 수 있습니다. 이러한 쿠키는 각각의 제공 업체에 의해 관리되며 다른 사이트에서 활동을 추적할 수 있습니다.",
+    "Crypto Cookies": "암호화 쿠키:",
+    "These enable us to offer personalised cryptocurrency experiences, such as remembering your wallet address or preferred tokens.": "이를 통해 지갑 주소나 선호하는 토큰 등을 기억하여 개인화된 암호화폐 경험을 제공할 수 있습니다."
+    },
+    "managing": {
+    "title": "쿠키 관리",
+    "You can manage or delete cookies through your browser settings. However, disabling essential cookies might impact the functionality of certain crypto-related features on the site.": "브라우저 설정을 통해 쿠키를 관리하거나 삭제할 수 있습니다. 그러나 필수 쿠키를 비활성화하면 사이트의 특정 암호화폐 관련 기능의 기능에 영향을 줄 수 있습니다.",
+    "If you have or this policy within the crypto context, feel free to contact us at contact@clairmeme.com.": "암호화폐 관련 컨텍스트에서 이 정책에 대한 의견이 있으면 contact@clairmeme.com으로 언제든지 문의하세요.",
+    "If you have any inquiries or concerns regarding our use of cookies or this policy within the crypto context, feel free to contact us at contact@clairmeme.com.": "쿠키 사용이나 이 정책에 대한 암호화폐 관련 컨텍스트에서의 문의 사항이나 우려 사항이 있으면 contact@clairmeme.com으로 언제든지 문의하세요."
+    },
+    "privacy": {
+    "title": "개인정보 보호 정책",
+    "text": "Clairmeme.com에 오신 것을 환영합니다. 여러분의 개인 정보는 저희에게 매우 중요합니다. 이 정책은 여러분으로부터 수집한 정보와 이를 어떻게 활용하는지 설명하며 여러분의 개인 데이터를 기밀 유지하고 안전하게 보호합니다. 저희는 여러분의 개인 정보를 제3자에게 공개하지 않는 것을 약속합니다."
+    },
+    "collection": {
+    "title": "데이터 수집",
+    "text": "저희는 서비스를 향상시키기 위해 다음과 같은 정보를 수집할 수 있습니다.",
+    "Personal Information:": "개인 정보:",
+    "Your name and email, if provided by you.": "여러분이 제공한 경우 여러분의 이름과 이메일.",
+    "Technical Details:": "기술적인 세부 정보:",
+    "Including your IP address and browser type.": "여러분의 IP 주소 및 브라우저 유형을 포함하여.",
+    "Crypto Details:": "암호화 세부 정보:",
+    "Such as your wallet addresses.": "지갑 주소 등."
+    },
+    "utilisation": {
+    "title": "데이터 활용",
+    "text": "저희는 이 정보를 활용하여: 여러분의 웹사이트 경험을 여러분의 요구에 맞게 사용자 정의합니다. 여러분의 데이터를 안전하게 보호합니다. 여러분의 요구 사항에 대한 통찰력을 얻어 웹사이트 기능을 향상시킵니다."
+    },
+    "security": {
+    "title": "데이터 보안",
+    "text": "안심하세요. 저희는 여러분의 정보를 보호하기 위해 엄격한 조치를 취합니다."
+    },
+    "retention": {
+    "title": "데이터 보유",
+    "text": "여러분의 데이터는 필요한 기간 동안만 보유하고 즉시 삭제됩니다. 제3자 보증: 여러분의 데이터를 외부 기관과 공유하지 않겠다는 약속을 합니다. 여러분의 개인 정보는 우리의 최우선 순위입니다."
+    },
+    "connect": {
+    "title": "저희와 연락하세요",
+    "text": "문의 사항이 있거나 도움이 필요하신 경우 언제든지 contact@clairmeme.com으로 연락하십시오. 여러분의 개인 정보 보호와 관련된 모든 걱정을 해소하고 여러분의 안녕을 보장하기 위해 여기에 있습니다."
+    }
+    }

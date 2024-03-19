@@ -1,0 +1,167 @@
+
+{
+    "bonus": "مكافأة 100٪ محدودة لأول 500 إيداع.",
+    "About": "حول",
+    "Tokenomics": "توكينوميكس",
+    "Audit": "تدقيق",
+    "Roadmap": "خارطة الطريق",
+    "whitePaper": "ورقة بيضاء",
+    "PRESALE IS LIVE": "البيع قائم حاليًا",
+    "Led by the most advanced AI technology and with a burn system to potentially increase its value significantly,":"مقودة بأحدث تكنولوجيا الذكاء الاصطناعي ونظام حرق قد يزيد قيمتها بشكل كبير، ",
+    "Baby Sinclair $CLAIR":"Baby Sinclair $CLAIR",
+    "is a powerful pro meme. Secure your chance to become the next millionaire!": "هي ميم قوي. ضمان فرصتك لتصبح المليونير التالي!",
+    "Buy": "شراء",
+    "CLICK ON AVATARS TO PLAY": "انقر على الصور الرمزية للعب",
+    "PRICE INCREASE IN:": "زيادة السعر في:",
+    "D":"أيام",
+    "H":"ساعات",
+    "M":"دقائق",
+    "S":"ثواني",
+    "Raised":"جمع",
+    "YOU PAY":"أنت تدفع",
+    "YOU RECEIVE":"أنت تستلم",
+    "Your Purchase":"شراؤك",
+    "Your Bonus":"مكافأتك",
+    "Insufficient balance":"رصيد غير كاف",
+    "Buy Now":"شراء الآن",
+    "Buying":"شراء...",
+    "Approve":"الموافقة",
+    "Approving":"جار الموافقة...",
+    "Amount must be greater than zero":"يجب أن يكون المبلغ أكبر من الصفر",
+    "Connect Wallet": "ربط المحفظة",
+    "How to buy": "كيفية الشراء",
+    "AS SEEN IN:": "كما ظهر في:",
+    "about1":"عاد بيبي سينكلير $CLAIR مرة أخرى، يقود المشهد كمحترف في ميم ومستعد لمواجهة اللاعبين السيئين المعارضين للثورة الرقمية.",
+    "about2":"وبينما تواجه مجتمعات العملات المشفرة حصة من التحديات، يظهر بيبي سينكلير كمدافع عن عالم العملات المشفرة، يثير الجدل من خلال الصور الرمزية المضحكة.",
+    "about3":"وأثناء تصفحك للصور الرمزية، ستجد أن كل واحدة لها صوت فريد، يجلب الضحك ولمحة من السخرية كتذكير بأن أفضل طريقة في بعض الأحيان لمواجهة التحديات هي بالضحك.",
+    "about4":"اللاعبون السيئون يفضلون الانتباه؛ المدافع عن عملات العملات المشفرة هنا، مسلح بالميمز وجاهز للتصرف.",
+    "token": {
+    "title": "توكينوميكس",
+    "text": "مبني على سلسلة الكتل Ethereum ومدعوم بأحدث تكنولوجيا الذكاء الاصطناعي، يتمتع بيبي سينكلير بإمكانية جعل المليونيرات في المراحل المبكرة والاستثمار على المدى الطويل. نظام الحرق الاستراتيجي الذي سيحرق ملايين من $CLAIR ربع سنويًا يهدف إلى زيادة قيمته بشكل كبير. لا تفوت الفرصة! انضم مبكرًا واضمن فرصتك لتصبح المليونير التالي."
+    },
+    "Fully": "كاملاً",
+    "Audited": "تمت مراجعته",
+    "Secure": "آمن",
+    "securityTitle": "استرح مطمئنًا بأن $CLAIR هو:",
+    "securityValue": " استثمر بثقة. ",
+    "securityRug": "لا مجال للخدع الاحتيالية:",
+    "smartTitle": "عنوان العقد الذكي",
+    "Copy": "نسخ",
+    "Copied": "تم النسخ",
+    "smartText": {
+    "0":"فريق بيبي سينكلير في حالة استعداد لتأمين",
+    "1":"القائمة على التبادلات الكبرى.",
+    "2":"أحداث مثيرة في الطريق."
+    },
+    "roadmap": {
+    "title": "خارطة الطريق",
+    "phese1Title": "بناء الأساس",
+    "PHASE": "مرحلة",
+        "Team Recruitment": "توظيف الفريق",
+        "Social Media Presence": "الوجود على وسائل التواصل الاجتماعي",
+        "Audit Smart Contract": "تدقيق العقد الذكي",
+        "Whitepaper Release": "إصدار الورقة البيضاء",
+        "Presale Launch": "إطلاق البيع قبل الطرح",
+        "Community Growth": "نمو المجتمع",
+        "AI Avatars Release": "إصدار صور رمزية ذكاء اصطناعي",
+      
+      
+      
+      "phese2Title": "تسارع الزخم",
+      
+        "Official Launch": "الإطلاق الرسمي",
+        "Burns (5%) Implementation": "تنفيذ الحرق (5٪)",
+        "DEX & CEX Listings": "قوائم DEX & CEX",
+        "Coinmarketcap": "Coinmarketcap",
+        "CoinGecko": "CoinGecko",
+        "Influencers Marketing": "تسويق المؤثرين",
+        "More AI Avatars Release": "إصدارات صور رمزية ذكاء اصطناعي أكثر",
+      "phese3Title": "الحفاظ على النمو والابتكار",
+      "Burns (5% quarterly)": "الحرق (5% ربع سنوي)",
+      "Rewards Program": "برنامج المكافآت",
+      "Multiple Partnerships": "شراكات متعددة",
+      "Craft Your AI Avatar": "صنع صورتك الرمزية بالذكاء الاصطناعي",
+      "AI Avatar Metaverse Play-to-Earn": "صور رمزية ذكاء اصطناعي في العالم الافتراضي للعب وكسب المال"
+    },
+    "shibainuText1":
+      "بيبي سينكلير يقف بقوة مع مجتمع Shiba Inu: 10٪ من كل رمز $CLAIR يتم بيعه بعد البيع المسبق سيكون مخصصًا لحرق SHIB.",
+    "shibainuTitle":
+      "انضم إلينا على وسائل التواصل الاجتماعي للحصول على هدايا حصرية والبقاء على اتصال!",
+      "Exciting Releases of ": "إصدارات مثيرة لـ ",
+      "Bad Players": "اللاعبين السيئين",
+      "Avatars Coming Soon: ": "الصور الرمزية قريباً: ",
+      "Be Ready for the Fun!": "كن جاهزًا للمرح!",
+        "Privacy": "الخصوصية",
+        "Cookies": "ملفات تعريف الارتباط",
+        "Disclaimer": "تنصل",
+    "footerInfo": "© 2024 بيبي سينكلير. كل الحقوق محفوظة",
+    "Success! Token has been claimed." : "نجاح! تمت مطالبة الرمز.",
+    "View On Etherscan" : "عرض على Etherscan",
+    "Error! Something Went Wrong": "خطأ! حدث خطأ ما",
+    "Already Claimed Token. Check your wallet. Thanks.": "تمت المطالبة بالفعل بالرمز. تحقق من محفظتك. شكراً.",
+    "Claimed": "تمت المطالبة",
+    "Claimable Tokens:": "الرموز التي يمكن المطالبة بها:",
+    "Claiming...": "جاري المطالبة...",
+    "Claim Now": "المطالبة الآن",
+    "cookies": {
+    "title": "ملفات تعريف الارتباط",
+    "text": "مرحبًا بك في Clairmeme.com، حيث نسعى لتعزيز تجربتك في التصفح في عالم مواقع الويب المركزية والمعتمدة على العملات المشفرة. من خلال استكشاف موقعنا بشكل أعمق، فإنك توافق على استخدام ملفات تعريف الارتباط."
+    },
+    "what": {
+    "title": "ما هي ملفات تعريف الارتباط؟",
+    "text": "ملفات تعريف الارتباط هي ملفات نصية صغيرة يتم تخزينها على جهازك عند زيارتك لموقعنا على الويب. تساعدنا في تذكر تفاصيل محددة حول زيارتك، مثل تفضيلاتك، وتمكيننا من تحسين تجربتك، خاصة داخل نطاق العملات المشفرة."
+    },
+    "how": {
+    "title": "كيف نستخدم ملفات تعريف الارتباط",
+    "Essential Cookies:": "ملفات تعريف الارتباط الأساسية:",
+    "These are vital for the proper functioning of our website, especially for blockchain-related features.": "هذه أساسية لتوفير عمل موقعنا بشكل صحيح، خاصة بالنسبة لميزات البلوكشين.",
+    
+    "Performance cookies:": "ملفات تعريف الارتباط الأداء:",
+    "These assist us in analysing user interactions with our cryptocurrency features, aiding us in enhancing site functionality.": "تساعدنا في تحليل تفاعل المستخدمين مع ميزات العملات المشفرة لدينا، مما يساعدنا في تعزيز وظائف الموقع.",
+    
+    "Third-Party Cookies:": "ملفات تعريف الارتباط من الأطراف الثالثة:",
+    "We may incorporate third-party cookies to provide additional crypto-related services, like embedded exchange widgets or social media plugins. These cookies are managed by their respective providers and may track your activity across other sites.": "قد ندمج ملفات تعريف الارتباط من الأطراف الثالثة لتوفير خدمات إضافية متعلقة بالعملات المشفرة، مثل الأدوات المدمجة للتبادل أو المكونات الإضافية لوسائل التواصل الاجتماعي. تُدير هذه الملفات مزودوها الأصليون وقد تتبع نشاطك عبر مواقع أخرى.",
+    
+    "Crypto Cookies": "ملفات تعريف الارتباط المشفرة:",
+    "These enable us to offer personalised cryptocurrency experiences, such as remembering your wallet address or preferred tokens.": "تمكننا من تقديم تجارب عملات مشفرة مخصصة، مثل تذكر عنوان محفظتك أو الرموز المفضلة لديك."
+    
+    },
+    "managing": {
+    "title": "إدارة ملفات تعريف الارتباط",
+    "You can manage or delete cookies through your browser settings. However, disabling essential cookies might impact the functionality of certain crypto-related features on the site.":"يمكنك إدارة أو حذف ملفات تعريف الارتباط من خلال إعدادات متصفحك. ومع ذلك، قد يؤثر تعطيل ملفات تعريف الارتباط الأساسية على وظائف معينة متعلقة بالعملات المشفرة على الموقع.",
+    "If you have or this policy within the crypto context, feel free to contact us at contact@clairmeme.com.":"إذا كان لديك أو هذه السياسة ضمن السياق الخاص بالعملات المشفرة، فلا تتردد في الاتصال بنا على contact@clairmeme.com.",
+    "If you have any inquiries or concerns regarding our use of cookies or this policy within the crypto context, feel free to contact us at contact@clairmeme.com.":"إذا كان لديك أي استفسارات أو مخاوف بشأن استخدامنا لملفات تعريف الارتباط أو هذه السياسة في السياق الخاص بالعملات المشفرة، فلا تتردد في الاتصال بنا على contact@clairmeme.com."
+    },
+    
+    "privacy": {
+    "title": "سياسة الخصوصية",
+    "text": "مرحبًا بك في Clairmeme.com، حيث يعد خصوصيتك أمرًا بالغ الأهمية بالنسبة لنا. تشرح هذه السياسة المعلومات التي نجمعها منك وكيف نستخدمها، لضمان أن بياناتك الشخصية تظل سرية وآمنة. نتعهد بعدم الكشف عن معلوماتك الشخصية لأطراف ثالثة."
+    },
+    "collection": {
+    "title": "جمع البيانات",
+    "text": "في سعينا لتحسين خدماتنا، قد نجمع المعلومات التالية:",
+    "Personal Information:": "المعلومات الشخصية:",
+    "Your name and email, if provided by you.": "اسمك وبريدك الإلكتروني، إذا تم توفيره من قبلك.",
+    "Technical Details:": "تفاصيل تقنية:",
+    "Including your IP address and browser type.": "بما في ذلك عنوان IP الخاص بك ونوع المتصفح.",
+    "Crypto Details:": "تفاصيل العملات المشفرة:",
+    "Such as your wallet addresses.": "مثل عناوين محفظتك."
+    },
+    "utilisation": {
+    "title": "استخدام بياناتك",
+    "text": "نستخدم هذه المعلومات ل: تخصيص تجربتك على الموقع لتلبية احتياجاتك. حماية بياناتك، لضمان أمانها. الحصول على رؤى حول متطلباتك لتحسين وظائف موقعنا"
+    },
+    "security": {
+    "title": "أمان البيانات",
+    "text": "تأكد، نحن نطبق تدابير صارمة لحماية معلوماتك."
+    },
+    "retention": {
+    "title": "احتفاظ البيانات",
+    "text": "نحتفظ ببياناتك فقط للمدة اللازمة، بعد ذلك يتم حذفها بسرعة. ضمان من طرف ثالث: نتعهد بعدم مشاركة بياناتك مع الشركات الخارجية. خصوصيتك هي أولويتنا القصوى."
+    },
+    "connect": {
+    "title": "تواصل معنا",
+    "text": "إذا كان لديك أي استفسارات أو تحتاج إلى مساعدة، يرجى عدم التردد في التواصل معنا على contact@clairmeme.com. نحن هنا لمعالجة أي مخاوف وضمان راحتك بشأن خصوصيتك."
+    }
+    
+    }

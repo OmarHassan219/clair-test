@@ -1,0 +1,157 @@
+{
+    "bonus": "100% बोनस सीमित पहले 500 जमाओं के लिए।",
+    "About": "के बारे में",
+    "Tokenomics": "टोकनोमिक्स",
+    "Audit": "ऑडिट",
+    "Roadmap": "रोडमैप",
+    "whitePaper": "सफेद पेपर",
+    "PRESALE IS LIVE": "प्रीसेल लाइव है",
+    "Led by the most advanced AI technology and with a burn system to potentially increase its value significantly,": "सबसे उन्नत AI तकनीक द्वारा नेतृत्त, और उसके मूल्य में संभावित रूप से वृद्धि करने के लिए एक जलन तंत्र के साथ, ",
+    "Baby Sinclair $CLAIR": "Baby Sinclair $CLAIR",
+    "is a powerful pro meme. Secure your chance to become the next millionaire!": "एक शक्तिशाली पेशेवर मीम है। अगले करोड़पति बनने का मौका सुरक्षित करें!",
+    "Buy": "खरीदें",
+    "CLICK ON AVATARS TO PLAY": "खेलने के लिए अवतार पर क्लिक करें",
+    "PRICE INCREASE IN:": "में मूल्य वृद्धि:",
+    "D": "दिन",
+    "H": "घंटे",
+    "M": "मिनट",
+    "S": "सेकंड",
+    "Raised": "बढ़ाया गया",
+    "YOU PAY": "आप पेंसे",
+    "YOU RECEIVE": "आप प्राप्त करते हैं",
+    "Your Purchase": "आपकी खरीद",
+    "Your Bonus": "आपका बोनस",
+    "Insufficient balance": "अपर्याप्त शेष",
+    "Buy Now": "अभी खरीदें",
+    "Buying": "खरीदारी...",
+    "Approve": "मंजूरी",
+    "Approving": "मंजूरी दी जा रही है...",
+    "Amount must be greater than zero": "राशि शून्य से अधिक होनी चाहिए",
+    "Connect Wallet": "बटुआ जोड़ें",
+    "How to buy": "खरीदने का तरीका",
+    "AS SEEN IN:": "में देखा गया:",
+    "about1": "बेबी सिंक्लेयर $CLAIR वापस आ गया है, मीम के पेशेवर के रूप में अग्रणी है, और डिजिटल क्रांति के खिलाफ खड़े हैं।",
+    "about2": "जैसा ही क्रिप्टो समुदाय अपनी समस्याओं का सामना करता है, बेबी सिंक्लेयर क्रिप्टो विश्व के प्रचारक के रूप में उभरता है, जो अवतारों के माध्यम से हँसी मजाक करता है।",
+    "about3": "जब आप अवतारों के बीच आते हैं, तो आप पाएंगे कि प्रत्येक का अपना एक अद्वितीय आवाज़ है, जो हँसी और एक अच्छी तरह से सार्कास्म को लाता है और याद दिलाता है कि, कभी-कभी, चुनौतियों का सामना करने का सबसे अच्छा तरीका अच्छी तरह से हंसी के साथ होता है।",
+    "about4": "बुरे खिलाड़ियों को सावधान रहना चाहिए; क्रिप्टो रक्षक यहाँ है, मीम के साथ लोड़ा, तैयार है।",
+    "token": {
+      "title": "टोकनोमिक्स",
+      "text": "ईथेरियम ब्लॉकचेन पर निर्मित और सबसे उन्नत एआई तकनीक द्वारा संचालित, बेबी सिंक्लेयर को शुरुआती चरणों और दीर्घकालिक निवेश में करोड़पति बनाने की संभावना है। हमारा रणनीतिक जलाने का प्रणाली, जो हर तिमाही में लाखों डॉलर $CLAIR जलाएगा, इसकी मूल्य को बड़े पैमाने पर बढ़ाने का उद्देश्य है। छोड़ना नहीं! जल्दी आइए और अपने मौके को सुरक्षित करें और अगले करोड़पति बनने का मौका पकड़ें।"
+    },
+    "Fully": "पूरी तरह से",
+    "Audited": "संवीक्षित",
+    "Secure": "सुरक्षित",
+    "securityTitle": "आराम करो, जानते हैं कि $CLAIR",
+    "securityValue": " विश्वास के साथ निवेश करें।",
+    "securityRug": "रग पुल्स के लिए जगह नहीं:",
+    "smartTitle": "स्मार्ट कॉन्ट्रैक्ट पता",
+    "Copy": "कॉपी करें",
+    "Copied": "कॉपी किया गया",
+    "smartText": {
+      "0": "बेबी सिंक्लेयर की टीम कार्रवाई में है",
+      "1": "मुख्य विनिमयों में सूचीबद्ध करने के लिए।",
+      "2": "आगे के दिलचस्प उद्घाटन।"
+    },
+    "roadmap": {
+      "title": "रोडमैप",
+      "phese1Title": "मूलभूत निर्माण",
+      "PHASE": "चरण",
+      "Team Recruitment": "टीम भर्ती",
+      "Social Media Presence": "सोशल मीडिया प्रतिष्ठता",
+      "Audit Smart Contract": "ऑडिट स्मार्ट कॉन्ट्रैक्ट",
+      "Whitepaper Release": "व्हाइटपेपर रिलीज़",
+      "Presale Launch": "प्रीसेल लॉन्च",
+      "Community Growth": "समुदाय की वृद्धि",
+      "AI Avatars Release": "एआई अवतार रिलीज़",
+      "phese2Title": "गति को तेज करना",
+      "Official Launch": "आधिकारिक लॉन्च",
+      "Burns (5%) Implementation": "जलाने (5%) का कार्यान्वयन",
+      "DEX & CEX Listings": "डेक्स और सेक्स सूचियों",
+      "Coinmarketcap": "कॉइनमार्केटकैप",
+      "CoinGecko": "कॉइनजेको",
+      "Influencers Marketing": "प्रभावकारी विपणन",
+      "More AI Avatars Release": "अधिक एआई अवतार रिलीज़",
+      "phese3Title": "वृद्धि और नवाचार को समर्थन करना",
+      "Burns (5% quarterly)": "जलाने (5% प्रतिवर्षी)",
+      "Rewards Program": "पुरस्कार कार्यक्रम",
+      "Multiple Partnerships": "एकाधिक साझेदारियाँ",
+      "Craft Your AI Avatar": "अपना एआई अवतार बनाएं",
+      "AI Avatar Metaverse Play-to-Earn": "एआई अवतार: मेटावर्स खेलें-कमाएँ"
+    },
+    "shibainuText1": "बेबी सिंक्लेयर शिबा इनू समुदाय के साथ मजबूत बना है: प्रीसेल के बाद प्रत्येक $CLAIR टोकन का 10% SHIB को जलाने के लिए बुक किया जाएगा।",
+    "shibainuTitle": "हमारे साथ सोशल मीडिया पर अनूठे वितरण के लिए शामिल हों और जुड़े रहें!",
+    "Exciting Releases of ": "रोमांचक रिलीज़ेस ऑफ ",
+    "Bad Players": "खराब खिलाड़ी",
+    "Avatars Coming Soon: ": "अवतार जल्द ही: ",
+    "Be Ready for the Fun!": "मज़े के लिए तैयार रहें!",
+    "Privacy": "गोपनीयता",
+    "Cookies": "कुकीज़",
+    "Disclaimer": "अस्वीकृति",
+    "footerInfo": "© 2024 Baby Sinclair। सभी अधिकार सुरक्षित।",
+    "Success! Token has been claimed.": "सफलता! टोकन का दावा किया गया है।",
+    "View On Etherscan": "इथरस्कैन पर देखें",
+    "Error! Something Went Wrong": "त्रुटि! कुछ गलत हो गया",
+    "Already Claimed Token. Check your wallet. Thanks.": "पहले ही दावा किया गया टोकन। अपना वॉलेट देखें। धन्यवाद।",
+    "Claimed": "दावा किया",
+    "Claimable Tokens:": "दावा करने योग्य टोकन:",
+    "Claiming...": "दावा किया जा रहा है...",
+    "Claim Now": "अब दावा करें",
+      "cookies": {
+        "title": "कुकीज़",
+        "text": "Clairmeme.com में आपका स्वागत है, जहां हम अपनी वेबसाइट के डिसेंट्रलाइज़्ड और क्रिप्टो-सेंट्रिक विश्व के ब्राउज़िंग अनुभव को बेहतर बनाने का प्रयास करते हैं। हमारी साइट को और अधिक खोजने के द्वारा, आप कुकीज़ के उपयोग से सहमत होते हैं।"
+      },
+      "what": {
+        "title": "कुकीज़ क्या हैं?",
+        "text": "कुकीज़ छोटे पाठ फ़ाइलें होती हैं जो जब आप हमारी वेबसाइट पर जाते हैं तो आपके डिवाइस में स्टोर की जाती हैं। वे हमें आपके दौरे के विशिष्ट विवरणों को याद रखने में मदद करती हैं, जैसे कि आपकी पसंद, और हमें आपके अनुभव को अधिक उत्तम बनाने की क्षमता प्रदान करती हैं, विशेष रूप से क्रिप्टोकरेंसी डोमेन के भीतर।"
+      },
+      "how": {
+        "title": "हम कुकीज़ कैसे उपयोग करते हैं",
+        "Essential Cookies:": "महत्वपूर्ण कुकीज़:",
+        "These are vital for the proper functioning of our website, especially for blockchain-related features.": "ये हमारी वेबसाइट के उचित कार्य के लिए महत्वपूर्ण हैं, खासकर ब्लॉकचेन संबंधित सुविधाओं के लिए।",
+        "Performance cookies:": "प्रदर्शन कुकीज़:",
+        "These assist us in analysing user interactions with our cryptocurrency features, aiding us in enhancing site functionality.": "ये हमें हमारी क्रिप्टोकरेंसी सुविधाओं के साथ उपयोगकर्ता के बातचीत को विश्लेषित करने में सहायक होते हैं, साइट की कार्यक्षमता में सुधार करने में हमारी मदद करते हैं।",
+        "Third-Party Cookies:": "तिसरे पक्ष की कुकीज़:",
+        "We may incorporate third-party cookies to provide additional crypto-related services, like embedded exchange widgets or social media plugins. These cookies are managed by their respective providers and may track your activity across other sites.": "हम अतिरिक्त क्रिप्टो संबंधित सेवाएं प्रदान करने के लिए तिसरे पक्ष की कुकीज़ को शामिल कर सकते हैं, जैसे कि संबद्ध विनिमय विजेट या सोशल मीडिया प्लगइन्स। ये कुकीज़ उनके संबंधित प्रदाताओं द्वारा प्रबंधित की जाती हैं और आपके गतिविधि का ट्रैक कर सकती हैं।",
+        "Crypto Cookies": "क्रिप्टो कुकीज़:",
+        "These enable us to offer personalised cryptocurrency experiences, such as remembering your wallet address or preferred tokens.": "ये हमें व्यक्तिगत क्रिप्टोकरेंसी अनुभव प्रदान करने में सक्षम बनाते हैं, जैसे कि आपके वॉलेट पते या पसंदीदा टोकन को याद करना।"
+      },
+      "managing": {
+        "title": "कुकीज़ प्रबंधन",
+        "You can manage or delete cookies through your browser settings. However, disabling essential cookies might impact the functionality of certain crypto-related features on the site.": "आप अपने ब्राउज़र सेटिंग्स के माध्यम से कुकीज़ का प्रबंधन या मिटा सकते हैं। हालांकि, महत्वपूर्ण कुकीज़ को अक्षम करने से साइट पर कुछ क्रिप्टो संबंधित सुविधाओं की कार्यक्षमता पर प्रभाव पड़ सकता है।",
+        "If you have or this policy within the crypto context, feel free to contact us at contact@clairmeme.com.": "यदि आपके पास क्रिप्टो संदर्भ में यह नीति है, तो कृपया हमसे संपर्क करें contact@clairmeme.com पर।",
+        "If you have any inquiries or concerns regarding our use of cookies or this policy within the crypto context, feel free to contact us at contact@clairmeme.com.": "यदि आपके पास कुकीज़ के उपयोग या इस नीति के संदर्भ में कोई प्रश्न या चिंताएं हैं, तो कृपया हमसे संपर्क करें contact@clairmeme.com पर।"
+      },
+      "privacy": {
+        "title": "गोपनीयता नीति",
+        "text": "Clairmeme.com में आपका स्वागत है, जहां आपकी गोपनीयता हमारे लिए प्रमुख है। यह नीति व्यक्त करती है कि हम आपसे कौन सी जानकारी एकत्र करते हैं और हम इसे कैसे उपयोग करते हैं, सुनिश्चित करते हुए कि आपका निजी डेटा गोपनीय और सुरक्षित रहता है। हम वादा करते हैं कि हम कभी भी आपकी व्यक्तिगत जानकारी को तीसरे पक्षों के साथ साझा नहीं करेंगे।"
+      },
+      "collection": {
+        "title": "डेटा संग्रहण",
+        "text": "हमारी सेवाओं को बेहतर बनाने के लिए हम निम्नलिखित जानकारी एकत्र कर सकते हैं:",
+        "Personal Information:": "व्यक्तिगत जानकारी:",
+        "Your name and email, if provided by you.": "आपका नाम और ईमेल, यदि आप इसे प्रदान करते हैं।",
+        "Technical Details:": "तकनीकी विवरण:",
+        "Including your IP address and browser type.": "आपके आईपी पते और ब्राउज़र प्रकार सहित।",
+        "Crypto Details:": "क्रिप्टो विवरण:",
+        "Such as your wallet addresses.": "जैसे कि आपके वॉलेट पतों।"
+      },
+      "utilisation": {
+        "title": "आपके डेटा का उपयोग",
+        "text": "हम इस जानकारी का उपयोग करते हैं: आपके आवश्यकताओं को संतुलित करने के लिए अपनी वेबसाइट अनुभव को कस्टमाइज़ करें। आपके डेटा की रक्षा करें, उसकी सुरक्षा सुनिश्चित करें। हमारी वेबसाइट की कार्यक्षमता को सुधारने के लिए आपकी आवश्यकताओं को समझें।"
+      },
+      "security": {
+        "title": "डेटा सुरक्षा",
+        "text": "आप चिंता न करें, हम आपकी जानकारी को सुरक्षित रखने के लिए कठिन कदम उठाते हैं।"
+      },
+      "retention": {
+        "title": "डेटा रिटेंशन",
+        "text": "हम आपके डेटा को केवल आवश्यक समय तक ही रखते हैं, उसके बाद वह त्वरित रूप से हटा दिया जाता है। तृतीय-पक्ष आश्वासन: हम तीसरे पक्षों के साथ आपके डेटा को साझा करने का कभी वादा नहीं करते हैं। आपकी गोपनीयता हमारी सर्वोच्च प्राथमिकता है।"
+      },
+      "connect": {
+        "title": "हमसे जुड़ें",
+        "text": "यदि आपके पास कोई प्रश्न हो या सहायता की आवश्यकता हो, कृपया हमसे contact@clairmeme.com पर संपर्क करने में हिचकिचाएं नहीं। हम यहां हैं आपकी गोपनीयता के संबंध में किसी भी चिंता को संबोधित करने और सुनिश्चित करने के लिए।"
+      }
+    }
+    
+  
+  

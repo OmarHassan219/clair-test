@@ -1,0 +1,141 @@
+{
+    "bonus": "100% Bonus, Omezeno na prvních 500 vkladů.",
+    "About": "O nás",
+    "Tokenomics": "Tokenomika",
+    "Audit": "Audit",
+    "Roadmap": "Plán cesty",
+    "whitePaper": "Bílá kniha",
+    "PRESALE IS LIVE": "PRESALE JE ŽIVÝ",
+    "Led by the most advanced AI technology and with a burn system to potentially increase its value significantly,": "Veden nejvyspělejší technologií AI a s systémem spalování, který potenciálně výrazně zvyšuje její hodnotu, ",
+    "Baby Sinclair $CLAIR": "Baby Sinclair $CLAIR",
+    "is a powerful pro meme. Secure your chance to become the next millionaire!": "je silným pro memem. Zajistěte si svou šanci stát se dalším milionářem!",
+    "Buy": "Koupit",
+    "CLICK ON AVATARS TO PLAY": "KLIKNĚTE NA AVATARY PRO PŘEHRÁNÍ",
+    "PRICE INCREASE IN:": "CENA SE ZVÝŠÍ O:",
+    "D": "DNY",
+    "H": "HOD",
+    "M": "MIN",
+    "S": "S",
+    "Raised": "Zvýšený",
+    "YOU PAY": "PLATÍTE",
+    "YOU RECEIVE": "DOSTANETE",
+    "Your Purchase": "Vaše nákup",
+    "Your Bonus": "Váš bonus",
+    "Insufficient balance": "Nedostatečný zůstatek",
+    "Buy Now": "Koupit nyní",
+    "Buying": "Nákup...",
+    "Approve": "Schválit",
+    "Approving": "Schvalování...",
+    "Amount must be greater than zero": "Částka musí být větší než nula",
+    "Connect Wallet": "Připojit peněženku",
+    "How to buy": "Jak nakupovat",
+    "AS SEEN IN:": "JAK VIDÍNO V:",
+    "about1": "Baby Sinclair $CLAIR se vrací, vedoucí scénu jako profesionální meme a je připravena čelit špatným hráčům, kteří se staví proti digitální revoluci.",
+    "about2": "Krypto komunita čelí svému dílu výzev a Baby Sinclair vychází jako obránce kryptoměn, vyvolávající vtipnými avatary.",
+    "about3": "Při procházení avatary zjistíte, že každý má jedinečný hlas, který přináší smích a špetku sarkasmu jako připomínku toho, že někdy je nejlepší způsob, jak čelit výzvám, dobrým smíchem.",
+    "about4": "Špatní hráči si lepší dávat pozor; krypto obránce je tady, ozbrojen memy a připraven k akci.",
+    "token": {
+        "title": "Tokenomika",
+        "text": "Postaveno na blockchainu Ethereum a poháněno nejvyspělejší technologií AI, má Baby Sinclair potenciál udělat milionáře jak v raných fázích, tak i dlouhodobě. Náš strategický systém spalování, který spálí miliony $CLAIR čtvrtletně, má za cíl významně zvýšit její hodnotu. Nezmeškejte! Zapojte se brzy a zajistěte si šanci stát se dalším milionářem."
+    },
+    "Fully": "Plně",
+    "Audited": "Auditováno",
+    "Secure": "Zabezpečené",
+    "securityTitle": "Klidně spěte vědomi toho, že $CLAIR je:",
+    "securityValue": " INVESTUJTE S DŮVĚROU.",
+    "securityRug": "ŽÁDNÉ MÍSTO PRO RUG PULLS:",
+    "smartTitle": "ADRESA CHYTRÉ SMLOUVY",
+    "Copy": "Kopírovat",
+    "Copied": "Zkopírováno",
+    "smartText": {
+        "0": "Tým Baby Sinclair je v akci, aby zajistil",
+        "1": "uvedení na hlavní burzy.",
+        "2": "Před námi jsou vzrušující milníky."
+    },
+    "roadmap": {
+        "title": "Plán cesty",
+        "phese1Title": "Vytváření základů",
+        "PHASE": "FAZE",
+        "Team Recruitment": "Nábor týmu",
+        "Social Media Presence": "Přítomnost v sociálních médiích",
+        "Audit Smart Contract": "Audit chytré smlouvy",
+        "Whitepaper Release": "Vydání bílé knihy",
+        "Presale Launch": "Spuštění předprodeje",
+        "Community Growth": "Růst komunity",
+        "AI Avatars Release": "Vydání AI avatarů",
+        "phese2Title": "Zrychlení momentum",
+        "Official Launch": "Oficiální spuštění",
+        "Burns (5%) Implementation": "Implementace spalování (5%)",
+        "DEX & CEX Listings": "Seznamy DEX & CEX",
+        "Coinmarketcap": "Coinmarketcap",
+        "CoinGecko": "CoinGecko",
+        "Influencers Marketing": "Influencers Marketing",
+        "More AI Avatars Release": "Další vydání AI avatarů",
+        "phese3Title": "Udržování růstu a inovací",
+        "Burns (5% quarterly)": "Spalování (5% čtvrtletně)",
+        "Rewards Program": "Program odměn",
+        "Multiple Partnerships": "Více partnerství",
+        "Craft Your AI Avatar": "Vytvořte svůj AI avatar",
+        "AI Avatar Metaverse Play-to-Earn": "AI Avatar Metaverse Play-to-Earn"
+    },
+    "shibainuText1": "Baby Sinclair pevně stojí s komunitou Shiba Inu: 10 % z každého token $CLAIR prodaného po předprodeji bude věnováno spalování SHIB.",
+    "shibainuTitle": "Připojte se k nám na sociálních médiích pro exkluzivní dárky a zůstaňte v kontaktu!",
+    "Exciting Releases of ": "Vzrušující vydání ",
+    "Bad Players": "Špatní hráči",
+    "Avatars Coming Soon: ": "Avatary brzy: ",
+    "Be Ready for the Fun!": "Buďte připraveni na zábavu!",
+    "Privacy": "Ochrana soukromí",
+    "Cookies": "Cookies",
+    "Disclaimer": "Odmítnutí odpovědnosti",
+    "footerInfo": "© 2024 Baby Sinclair. Všechna práva vyhrazena",
+    "Success! Token has been claimed.": "Úspěch! Token byl nárokován.",
+    "View On Etherscan": "Zobrazit na Etherscan",
+    "Error! Something Went Wrong": "Chyba! Něco se pokazilo",
+    "Already Claimed Token. Check your wallet. Thanks.": "Token již byl nárokován. Zkontrolujte si peněženku. Díky.",
+    "Claimed": "Nárokováno",
+    "Claimable Tokens:": "Tokeny k nárokování:",
+    "Claiming...": "Nárokování...",
+    "Claim Now": "Nárokovat nyní",
+    "cookies": {
+        "title": "Cookies",
+        "text": "Vítejte na Clairmeme.com, kde se snažíme zlepšit vaši prohlížečovou zkušenost v decentralizovaném a kryptocentrickém světě našeho webu. Prozkoumáním našeho webu dále souhlasíte s použitím souborů cookie."
+    },
+    "what": {
+        "title": "Co jsou cookies?",
+        "text": "Soubory cookie jsou malé textové soubory, které jsou uloženy na vašem zařízení, když navštívíte náš web. Pomáhají nám pamatovat si konkrétní podrobnosti o vaší návštěvě, jako jsou vaše preference, a umožňují nám optimalizovat vaši zkušenost, zejména v oblasti kryptoměn."
+    },
+    "how": {
+        "title": "Jak využíváme soubory cookie",
+        "Essential Cookies:": "Základní soubory cookie:",
+        "Performance cookies:": "Výkonnostní soubory cookie:",
+        "Third-Party Cookies:": "Soubory cookie třetích stran:",
+        "Crypto Cookies": "Kryptoměnové cookies:"
+    },
+    "managing": {
+        "title": "Správa cookies"
+    },
+    "privacy": {
+        "title": "Zásady ochrany osobních údajů",
+        "text": "Vítejte na Clairmeme.com, kde je vaše soukromí pro nás nejdůležitější. Tato politika vysvětluje, jaké informace od vás sbíráme a jak je využíváme, abychom zajistili, že vaše osobní údaje zůstanou důvěrné a bezpečné. Slibujeme, že vaše osobní údaje nikdy neposkytneme třetím stranám."
+    },
+    "collection": {
+        "title": "Sběr dat",
+        "text": "V našem úsilí o zdokonalení našich služeb můžeme shromažďovat následující informace:"
+    },
+    "utilisation": {
+        "title": "Využití vašich dat",
+        "text": "Tyto informace využíváme k: Přizpůsobení vašeho zážitku na webu vašim potřebám. Ochrana vašich dat a zajištění jejich bezpečnosti. Získání poznatků o vašich požadavcích pro zlepšení funkčnosti našeho webu"
+    },
+    "security": {
+        "title": "Zabezpečení dat",
+        "text": "Můžete být si jisti, že používáme přísná opatření k ochraně vašich informací."
+    },
+    "retention": {
+        "title": "Uchovávání dat",
+        "text": "Vaše údaje uchováváme pouze po dobu nezbytně nutnou, poté jsou okamžitě smazány. Zajištění třetí strany: Zavazujeme se nikdy nesdílet vaše údaje s externími společnostmi. Vaše soukromí je naší nejvyšší prioritou."
+    },
+    "connect": {
+        "title": "Spojte se s námi",
+        "text": "Pokud máte nějaké dotazy nebo potřebujete pomoc, neváhejte nás kontaktovat na adrese contact@clairmeme.com. Jsme tu, abychom zodpověděli veškeré dotazy a zajistili vaše klidné srdce ohledně vašeho soukromí."
+    }
+}

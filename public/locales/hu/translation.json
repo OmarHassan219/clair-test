@@ -1,0 +1,141 @@
+{
+    "bonus": "100% bónusz, Korlátozva az első 500 befizetésre.",
+    "About": "Rólunk",
+    "Tokenomics": "Tokenomika",
+    "Audit": "Ellenőrzés",
+    "Roadmap": "Útiterv",
+    "whitePaper": "Fehér Papír",
+    "PRESALE IS LIVE": "AZ ELŐÉRTÉKELÉS ÉLŐBEN VAN",
+    "Led by the most advanced AI technology and with a burn system to potentially increase its value significantly,": "A legfejlettebb AI technológiával vezetve és egy égési rendszerrel, amely potenciálisan jelentősen növelheti értékét, ",
+    "Baby Sinclair $CLAIR": "Baby Sinclair $CLAIR",
+    "is a powerful pro meme. Secure your chance to become the next millionaire!": "erős pro meme. Biztosítsa esélyét, hogy a következő milliomos legyen!",
+    "Buy": "Vásárlás",
+    "CLICK ON AVATARS TO PLAY": "KATTINTSON AZ AVATARS RA, HOGY JÁTSSZON",
+    "PRICE INCREASE IN:": "ÁR EMELKEDÉSE: ",
+    "D": "NAP",
+    "H": "ÓRA",
+    "M": "PERC",
+    "S": "MP",
+    "Raised": "Felkeltett",
+    "YOU PAY": "FIZET",
+    "YOU RECEIVE": "VISSZAKAPSZ",
+    "Your Purchase": "Az Ön vásárlása",
+    "Your Bonus": "Az Ön bónusza",
+    "Insufficient balance": "Nem megfelelő mérleg",
+    "Buy Now": "Vásárlás most",
+    "Buying": "Vásárlás...",
+    "Approve": "Jóváhagyás",
+    "Approving": "Jóváhagyás...",
+    "Amount must be greater than zero": "Az összegnek nagyobbnak kell lennie nullánál",
+    "Connect Wallet": "Pénztárca csatlakoztatása",
+    "How to buy": "Hogyan vásároljon",
+    "AS SEEN IN:": "MINT LÁTHATÓ: ",
+    "about1": "A Baby Sinclair $CLAIR visszatért, vezetve a jelenetet, mint egy profi meme, és készen áll, hogy szembenézzen a rossz játékosokkal, akik ellenszegülnek a digitális forradalomnak.",
+    "about2": "Amint a kriptó közösség szembesül a saját kihívásaival, a Baby Sinclair felmerül a kriptó világ védelmezőjeként, vicces avatarokon keresztül provokálva.",
+    "about3": "Amint átnavigál az avatárokon, észre fogja venni, hogy mindegyiknek egyedi hangja van, ami nevetést és egy kis szarkazmust hoz, mint egy emlékeztető, hogy néha a legjobb módja a kihívásokkal való szembesítésnek egy jó nevetés.",
+    "about4": "A rossz játékosok jobb, ha vigyáznak; a kriptó védő itt van, viccekkel felszerelve és kész cselekedni.",
+    "token": {
+        "title": "Tokenomika",
+        "text": "Az Ethereum blokkláncra építve és a legfejlettebb AI technológiával hajtva, a Baby Sinclair potenciálisan milliomosokat hozhat létre mind a korai szakaszokban, mind a hosszú távú befektetésben. Stratégiai égési rendszerünk, amely negyedévente milliókat fog elégetni $CLAIR, jelentős mértékben növeli értékét. Ne hagyja ki! Jöjjön el korán, és biztosítsa esélyét, hogy a következő milliomos legyen."
+    },
+    "Fully": "Teljesen",
+    "Audited": "Ellenőrzött",
+    "Secure": "Biztonságos",
+    "securityTitle": "Nyugodtan aludhat, tudva, hogy a $CLAIR:",
+    "securityValue": " BIZTONSÁGGAL BEFEKTET.",
+    "securityRug": "NINCS HELY A SZŐNYEG HIVÁSAKNAK:",
+    "smartTitle": "OKOS SZERZŐDÉS CÍME",
+    "Copy": "Másolás",
+    "Copied": "Másolva",
+    "smartText": {
+        "0": "A Baby Sinclair csapata működésbe lépett, hogy biztosítsa a",
+        "1": "listázás a nagy tőzsdéken.",
+        "2": "Izgalmas mérföldkövek előtt állunk."
+    },
+    "roadmap": {
+        "title": "Útiterv",
+        "phese1Title": "Az alapok kiépítése",
+        "PHASE": "FAZIS",
+        "Team Recruitment": "Csapat toborzás",
+        "Social Media Presence": "Társadalmi média jelenlét",
+        "Audit Smart Contract": "Okos szerződés ellenőrzése",
+        "Whitepaper Release": "Fehér Papír Kiadás",
+        "Presale Launch": "Előértékesítés indítása",
+        "Community Growth": "Közösségi növekedés",
+        "AI Avatars Release": "AI Avatárok Kiadása",
+        "phese2Title": "A lendület felgyorsítása",
+        "Official Launch": "Hivatalos indítás",
+        "Burns (5%) Implementation": "Égetések (5%) végrehajtása",
+        "DEX & CEX Listings": "DEX & CEX Listák",
+        "Coinmarketcap": "Coinmarketcap",
+        "CoinGecko": "CoinGecko",
+        "Influencers Marketing": "Befolyásolók Marketing",
+        "More AI Avatars Release": "További AI Avatárok Kiadása",
+        "phese3Title": "A növekedés és az innováció fenntartása",
+        "Burns (5% quarterly)": "Égetések (5% negyedéves)",
+        "Rewards Program": "Jutalmak Program",
+        "Multiple Partnerships": "Több Partnerség",
+        "Craft Your AI Avatar": "Készítse el AI Avatárját",
+        "AI Avatar Metaverse Play-to-Earn": "AI Avatar Metaverse Játssz és Keress"
+    },
+    "shibainuText1": "A Baby Sinclair szilárdan áll a Shiba Inu közösség mellett: minden $CLAIR token értékesített után a presale után 10%-át SHIB égetésére szenteljük.",
+    "shibainuTitle": "Csatlakozzon hozzánk a közösségi médiában az exkluzív ajándékokért és maradjon kapcsolatban!",
+    "Exciting Releases of ": "Izgalmas kiadások a ",
+    "Bad Players": "Rossz játékosok",
+    "Avatars Coming Soon: ": "Avatárok hamarosan: ",
+    "Be Ready for the Fun!": "Légy kész a mókára!",
+    "Privacy": "Adatvédelem",
+    "Cookies": "Sütik",
+    "Disclaimer": "Nyilatkozat",
+    "footerInfo": "© 2024 Baby Sinclair. Minden jog fenntartva",
+    "Success! Token has been claimed.": "Sikeres! A tokent igényelték.",
+    "View On Etherscan": "Megtekintés az Etherscan-en",
+    "Error! Something Went Wrong": "Hiba! Valami rosszul sült el.",
+    "Already Claimed Token. Check your wallet. Thanks.": "Már igényelt token. Ellenőrizze a pénztárcáját. Köszönöm.",
+    "Claimed": "Igényelt",
+    "Claimable Tokens:": "Igényelhető Tokenek:",
+    "Claiming...": "Igénylés...",
+    "Claim Now": "Igényelj most",
+    "cookies": {
+        "title": "Sütik",
+        "text": "Üdvözöljük a Clairmeme.com webhelyen, ahol törekszünk arra, hogy fokozzuk böngészési élményét a decentralizált és kriptovaluta-orientált világunkban. Ha tovább felfedezed weboldalunkat, beleegyezel a sütik használatába."
+    },
+    "what": {
+        "title": "Mi a sütik?",
+        "text": "A sütik kis szöveges fájlok, amelyeket az eszközén tárolunk, amikor meglátogatja webhelyünket. Segítenek nekünk emlékezni látogatásának konkrét részleteire, például a preferenciáira, és lehetővé teszik számunkra, hogy optimalizáljuk az élményét, különösen a kriptovaluták területén."
+    },
+    "how": {
+        "title": "Hogyan használjuk a sütiket",
+        "Essential Cookies:": "Alapvető sütik:",
+        "Performance cookies:": "Teljesítmény sütik:",
+        "Third-Party Cookies:": "Harmadik féltől származó sütik:",
+        "Crypto Cookies": "Kriptovaluta sütik:"
+    },
+    "managing": {
+        "title": "Sütik kezelése"
+    },
+    "privacy": {
+        "title": "Adatvédelmi irányelvek",
+        "text": "Üdvözöljük a Clairmeme.com webhelyen, ahol a magánéleted kiemelt fontosságú számunkra. Ez az irányelv megmagyarázza, hogy milyen információkat gyűjtünk Öntől, és hogyan használjuk fel azokat, hogy biztosítsuk személyes adatainak bizalmas és biztonságos megőrzését. Ígérjük, hogy soha nem adjuk ki személyes adatait harmadik felek számára."
+    },
+    "collection": {
+        "title": "Adatgyűjtés",
+        "text": "Szolgáltatásaink fejlesztése érdekében az alábbi információkat gyűjthetjük össze:"
+    },
+    "utilisation": {
+        "title": "Az Ön adatainak felhasználása",
+        "text": "Ezeket az információkat az alábbiakban használjuk fel: Személyre szabja a webhelyélményét az Ön igényeinek megfelelően. Védi az adatait, biztosítva azok biztonságát. Betekintést nyerjen az Ön igényeibe, hogy javítsa webhelyének funkcióit."
+    },
+    "security": {
+        "title": "Adatbiztonság",
+        "text": "Nyugodjon meg, szigorú intézkedéseket hozunk az Ön információinak védelme érdekében."
+    },
+    "retention": {
+        "title": "Adattárolás",
+        "text": "Az Ön adatait csak annyi ideig tároljuk, amennyi szükséges, ezután azokat azonnal töröljük. Harmadik fél biztosítása: Ígérjük, hogy soha nem osztjuk meg az Ön adatait külső vállalatokkal. Az Ön magánélete az elsődleges prioritásunk."
+    },
+    "connect": {
+        "title": "Kapcsolatba lépés velünk",
+        "text": "Ha bármilyen kérdése vagy segítségre van szüksége, ne habozzon kapcsolatba lépni velünk a contact@clairmeme.com címen. Itt vagyunk, hogy válaszoljunk minden kérdésére, és biztosítsuk Önnek a nyugalmat az adatvédelme tekintetében."
+    }
+}

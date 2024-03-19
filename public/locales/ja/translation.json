@@ -1,0 +1,167 @@
+
+{
+    "bonus": "最初の500件の入金に限り、ボーナス100％",
+    "About": "約",
+    "Tokenomics": "トークン経済",
+    "Audit": "監査",
+    "Roadmap": "ロードマップ",
+    "whitePaper": "ホワイトペーパー",
+    "PRESALE IS LIVE": "プレセールがライブ中",
+    "Led by the most advanced AI technology and with a burn system to potentially increase its value significantly,":"最も先進的なAI技術によって主導され、価値を大幅に増加させる可能性があるバーンシステムとともに、",
+    "Baby Sinclair $CLAIR":"Baby Sinclair $CLAIR",
+    "is a powerful pro meme. Secure your chance to become the next millionaire!": "は強力なプロのミームです。次のミリオネアになるチャンスを確保しましょう！",
+    "Buy": "購入",
+    "CLICK ON AVATARS TO PLAY": "アバターをクリックして再生",
+    "PRICE INCREASE IN:": "価格の増加：",
+    "D":"日",
+    "H":"時間",
+    "M":"分",
+    "S":"秒",
+    "Raised":"調達",
+    "YOU PAY":"支払い額",
+    "YOU RECEIVE":"受け取る額",
+    "Your Purchase":"ご購入",
+    "Your Bonus":"あなたのボーナス",
+    "Insufficient balance":"残高不足",
+    "Buy Now":"今すぐ購入",
+    "Buying":"購入中...",
+    "Approve":"承認",
+    "Approving":"承認中...",
+    "Amount must be greater than zero":"金額はゼロより大きくなければなりません",
+    "Connect Wallet": "ウォレットに接続",
+    "How to buy": "購入方法",
+    "AS SEEN IN:": "で見られます：",
+    "about1":"ベイビーシンクレア $CLAIRが戻ってきました。ミームのプロとしてシーンをリードし、デジタル革命に反対する悪いプレイヤーに立ち向かう準備ができています。",
+    "about2":"暗号コミュニティがさまざまな課題に直面する中、ベイビーシンクレアが暗号世界の守護者として登場し、面白いアバターを通じて挑発しています。",
+    "about3":"アバターをナビゲートすると、それぞれがユニークな声を持っており、笑いと皮肉をもたらし、時には課題に対処する最良の方法は笑いであることを思い出させてくれます。",
+    "about4":"悪いプレイヤーは用心するべきです。暗号の守護者がここにおり、ミームを武器にして行動する準備ができています。",
+    "token": {
+    "title": "トークン経済",
+    "text": "イーサリアムブロックチェーン上に構築され、最も先進的なAI技術で動力を得たベイビーシンクレアは、初期段階と長期投資の両方でミリオネアを生み出す可能性を秘めています。 我々の戦略的なバーンシステムは、クォータリーで数百万ドルの$CLAIRを燃やすことを目指しており、その価値を大幅に向上させることを目指しています。お見逃しなく！ 早めに参加して、次のミリオネアになるチャンスを確保してください。"
+    },
+    "Fully": "完全",
+    "Audited": "監査済み",
+    "Secure": "セキュリティ",
+    "securityTitle": "$CLAIRは次のように安全です：",
+    "securityValue": " 自信を持って投資してください。",
+    "securityRug": "ラグプルの余地はゼロ：",
+    "smartTitle": "スマートコントラクトアドレス",
+    "Copy": "コピー",
+    "Copied": "コピーされました",
+    "smartText": {
+    "0":"ベイビーシンクレアのチームは",
+    "1":"主要取引所への上場を確保するために活動しています。",
+    "2":"エキサイティングなマイルストーンがあります。"
+    },
+    "roadmap": {
+    "title": "ロードマップ",
+    "phese1Title": "基盤の構築",
+    "PHASE": "フェーズ",
+        "Team Recruitment": "チームの募集",
+        "Social Media Presence": "ソーシャルメディアの存在",
+        "Audit Smart Contract": "スマートコントラクトの監査",
+        "Whitepaper Release": "ホワイトペーパーの発行",
+        "Presale Launch": "プレセールの開始",
+        "Community Growth": "コミュニティの成長",
+        "AI Avatars Release": "AIアバターのリリース",
+      
+      
+      
+      "phese2Title": "勢いを加速させる",
+      
+        "Official Launch": "公式発売",
+        "Burns (5%) Implementation": "バーン（5％）の実装",
+        "DEX & CEX Listings": "DEX＆CEXのリスト",
+        "Coinmarketcap": "Coinmarketcap",
+        "CoinGecko": "CoinGecko",
+        "Influencers Marketing": "インフルエンサーマーケティング",
+        "More AI Avatars Release": "さらなるAIアバターのリリース",
+      "phese3Title": "成長とイノベーションの維持",
+      "Burns (5% quarterly)": "バーン（四半期ごと5％）",
+      "Rewards Program": "報酬プログラム",
+      "Multiple Partnerships": "複数のパートナーシップ",
+      "Craft Your AI Avatar": "あなたのAIアバターを作成する",
+      "AI Avatar Metaverse Play-to-Earn": "AIアバターメタバースでのプレイで稼ぐ"
+    },
+    "shibainuText1":
+      "ベイビーシンクレアは柴犬コミュニティと連携：プレセール後に販売された$CLAIRトークンの10％がSHIBを焼却するために使用されます。",
+    "shibainuTitle":
+      "ソーシャルメディアでの独占的なプレゼントをお楽しみください！",
+      "Exciting Releases of ": "興奮するリリース：",
+      "Bad Players": "悪いプレイヤー",
+      "Avatars Coming Soon: ": "アバターが近日公開予定：",
+      "Be Ready for the Fun!": "楽しみにしてください！",
+        "Privacy": "プライバシー",
+        "Cookies": "クッキー",
+        "Disclaimer": "免責事項",
+    "footerInfo": "© 2024 Baby Sinclair. All rights reserveD",
+    "Success! Token has been claimed." : "成功！ トークンが請求されました。",
+    "View On Etherscan" : "Etherscanで表示",
+    "Error! Something Went Wrong": "エラー！ 何かがうまくいかなかった",
+    "Already Claimed Token. Check your wallet. Thanks.": "すでにトークンが請求されています。ウォレットを確認してください。ありがとうございました。",
+    "Claimed": "請求済み",
+    "Claimable Tokens:": "請求可能なトークン：",
+    "Claiming...": "請求中...",
+    "Claim Now": "今すぐ請求",
+    "cookies": {
+    "title": "クッキー",
+    "text": "Clairmeme.comへようこそ。当サイトでは、分散化された世界や暗号通貨に関連する体験を向上させることを目指しています。当サイトをさらに探索することで、クッキーの使用に同意するものとします。"
+    },
+    "what": {
+    "title": "クッキーとは？",
+    "text": "クッキーとは、当サイトを訪れた際にデバイスに保存される小さなテキストファイルです。クッキーは、訪問の詳細を覚えたり、特定の設定を記憶したりして、特に暗号通貨の領域で体験を最適化するのに役立ちます。"
+    },
+    "how": {
+    "title": "当サイトでのクッキーの利用",
+    "Essential Cookies:": "必須クッキー：",
+    "These are vital for the proper functioning of our website, especially for blockchain-related features.": "これらは、特にブロックチェーン関連の機能にとって、当サイトの正常な機能に不可欠です。",
+    
+    "Performance cookies:": "パフォーマンスクッキー：",
+    "These assist us in analysing user interactions with our cryptocurrency features, aiding us in enhancing site functionality.": "これらは、ユーザーの暗号通貨機能との相互作用を分析し、サイトの機能性を向上させるのに役立ちます。",
+    
+    "Third-Party Cookies:": "サードパーティクッキー：",
+    "We may incorporate third-party cookies to provide additional crypto-related services, like embedded exchange widgets or social media plugins. These cookies are managed by their respective providers and may track your activity across other sites.": "埋め込み型の交換ウィジェットやソーシャルメディアプラグインなどの追加の暗号関連サービスを提供するために、サードパーティのクッキーを組み込む場合があります。これらのクッキーは、それぞれのプロバイダによって管理され、他のサイトでのアクティビティを追跡する場合があります。",
+    
+    "Crypto Cookies": "クリプトクッキー：",
+    "These enable us to offer personalised cryptocurrency experiences, such as remembering your wallet address or preferred tokens.": "これにより、ウォレットアドレスやお好みのトークンなど、個人の暗号通貨体験を提供できるようになります。"
+    
+    },
+    "managing": {
+    "title": "クッキーの管理",
+    "You can manage or delete cookies through your browser settings. However, disabling essential cookies might impact the functionality of certain crypto-related features on the site.":"ブラウザの設定でクッキーを管理または削除できます。ただし、重要なクッキーを無効にすると、サイトの特定の暗号関連機能の機能性に影響を与える可能性があります。",
+    "If you have or this policy within the crypto context, feel free to contact us at contact@clairmeme.com.":"暗号コンテキスト内のこのポリシーまたはポリシーがある場合は、お問い合わせください contact@clairmeme.com。",
+    "If you have any inquiries or concerns regarding our use of cookies or this policy within the crypto context, feel free to contact us at contact@clairmeme.com.":"当社のクッキーの使用方法またはこのポリシーに関するお問い合わせや懸念がある場合は、お気軽にお問い合わせください contact@clairmeme.com。"
+    },
+    
+    "privacy": {
+    "title": "プライバシーポリシー",
+    "text": "Clairmeme.comへようこそ、ここではあなたのプライバシーが最優先事項です。このポリシーでは、あなたから収集する情報とその利用方法について説明します。あなたの個人データが機密情報として安全に保護されるようにします。私たちはあなたの個人情報を第三者に開示することは絶対にありません。"
+    },
+    "collection": {
+    "title": "データ収集",
+    "text": "サービスを向上させるために、次の情報を収集する場合があります：",
+    "Personal Information:": "個人情報：",
+    "Your name and email, if provided by you.": "あなたの名前とメールアドレス、あなたが提供した場合。",
+    "Technical Details:": "技術的な詳細：",
+    "Including your IP address and browser type.": "あなたのIPアドレスやブラウザのタイプを含む。",
+    "Crypto Details:": "暗号の詳細：",
+    "Such as your wallet addresses.": "あなたのウォレットアドレスなど。"
+    },
+    "utilisation": {
+    "title": "あなたのデータの利用",
+    "text": "この情報を活用して次のことができます：あなたのウェブサイト体験をカスタマイズしてあなたのニーズに合わせる。あなたのデータを保護し、そのセキュリティを確保する。あなたの要件を理解して、当サイトの機能を向上させる。"
+    },
+    "security": {
+    "title": "データセキュリティ",
+    "text": "ご安心ください、私たちは厳格な措置を講じて、あなたの情報を保護しています。"
+    },
+    "retention": {
+    "title": "データの保持",
+    "text": "データは必要な期間だけ保持し、その後すぐに削除します。サードパーティの保証：我々は、あなたのデータを外部の企業と共有することは決してありません。あなたのプライバシーは私たちの最優先事項です。"
+    },
+    "connect": {
+    "title": "お問い合わせ",
+    "text": "何かお問い合わせやお手伝いが必要な場合は、お気軽に contact@clairmeme.com までご連絡ください。私たちは、お問い合わせに対処し、あなたのプライバシーに関するご不安を解消するためにここにいます。"
+    }
+    
+    }
