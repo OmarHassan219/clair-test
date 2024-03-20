@@ -55,7 +55,7 @@ const Seen = ({language}) => {
             sizes="(max-width: 479px) 100vw, 199.9952850341797px"
             // srcSet="images/filters_no_upscale-p-500.webp 500w, images/filters_no_upscale.webp 700w"
             alt="filters"
-            className="marquee-image hide-mobile"
+            className="marquee-image"
             />
             </Link>
           <Link target="_blank" to="https://coinmarketcap.com/">
@@ -65,7 +65,7 @@ const Seen = ({language}) => {
             sizes="(max-width: 479px) 100vw, 199.9952850341797px"
             // srcSet="images/filters_no_upscale-p-500.webp 500w, images/filters_no_upscale.webp 700w"
             alt="filters"
-            className="marquee-image hide-mobile"
+            className="marquee-image"
             />
             </Link>
         </div>
@@ -105,7 +105,7 @@ const Seen = ({language}) => {
             sizes="(max-width: 479px) 100vw, 199.9952850341797px"
             // srcSet="images/filters_no_upscale-p-500.webp 500w, images/filters_no_upscale.webp 700w"
             alt="beincrypt"
-            className="marquee-image  daily"
+            className="marquee-image daily"
           />
           </Link>
           <Link target="_blank" to="https://cryptonews.com/">
@@ -115,7 +115,7 @@ const Seen = ({language}) => {
             sizes="(max-width: 479px) 100vw, 199.9952850341797px"
             // srcSet="images/filters_no_upscale-p-500.webp 500w, images/filters_no_upscale.webp 700w"
             alt="beincrypt"
-            className="marquee-image hide-mobile"
+            className="marquee-image"
             />
             </Link>
           <Link target="_blank" to="https://coinmarketcap.com/">
@@ -125,7 +125,7 @@ const Seen = ({language}) => {
             sizes="(max-width: 479px) 100vw, 199.9952850341797px"
             // srcSet="images/filters_no_upscale-p-500.webp 500w, images/filters_no_upscale.webp 700w"
             alt="beincrypt"
-            className="marquee-image hide-mobile"
+            className="marquee-image"
           />
             </Link>
         </div>
