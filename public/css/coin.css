@@ -1369,6 +1369,7 @@ html input[disabled] {
   flex: none;
   justify-content: space-around;
   display: flex;
+  align-items: center;
 }
 
 .marquee-content.scroll {
@@ -1377,9 +1378,24 @@ html input[disabled] {
 
 .marquee-image {
   width: 100%;
-  max-width: 200px;
+  max-width: 100%;
+  width: 223px;
+    height: 50px;
   color: var(--white);
   object-fit: contain;
+  margin-inline: 20px;
+}
+
+.marquee-image.daily{
+  height: 70px;
+}
+.marquee-image.desk{
+  height: 36px;
+}
+
+
+.coindesk{
+  mix-blend-mode: difference;
 }
 
 .marquee-image.b {
