@@ -30,12 +30,14 @@ const Seen = ({language}) => {
                        className="marquee-image"
                        />
                        </Link>
+            <Link  to="/">
           <img
             src="images/beincrypto.svg"
             loading="lazy"
             alt="filters"
             className="marquee-image"
-          />
+            />
+            </Link>
           <Link target="_blank" to="https://cryptodaily.co.uk/news-in-crypto/cryptopotato:bitcoins-halving-is-a-catalyst-for-crypto-change-how-will-it-impact-harambe-ai">
           <img
             src="images/cryptodaily1.png"
@@ -43,7 +45,7 @@ const Seen = ({language}) => {
             sizes="(max-width: 479px) 100vw, 199.9952850341797px"
             // srcSet="images/filters_no_upscale-p-500.webp 500w, images/filters_no_upscale.webp 700w"
             alt="filters"
-            className="marquee-image hide-mobile daily"
+            className="marquee-image daily"
             />
             </Link>
           <Link target="_blank" to="https://cryptonews.com/">
@@ -88,12 +90,14 @@ const Seen = ({language}) => {
             className="marquee-image"
             />
             </Link>
+            <Link  to="/">
           <img
             src="images/beincrypto.svg"
             loading="lazy"
             alt="beincrypt"
             className="marquee-image"
-          />
+            />
+            </Link>
           <Link target="_blank" to="https://cryptodaily.co.uk/news-in-crypto/cryptopotato:bitcoins-halving-is-a-catalyst-for-crypto-change-how-will-it-impact-harambe-ai">
           <img
             src="images/cryptodaily1.png"
@@ -101,7 +105,7 @@ const Seen = ({language}) => {
             sizes="(max-width: 479px) 100vw, 199.9952850341797px"
             // srcSet="images/filters_no_upscale-p-500.webp 500w, images/filters_no_upscale.webp 700w"
             alt="beincrypt"
-            className="marquee-image hide-mobile daily"
+            className="marquee-image  daily"
           />
           </Link>
           <Link target="_blank" to="https://cryptonews.com/">
