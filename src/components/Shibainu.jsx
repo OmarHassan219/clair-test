@@ -88,7 +88,7 @@ const Shibainu = ({ language }) => {
             <strong>{t(lan[language].shibainu[3])}</strong>"
           </p>
           <div className="socials-wrapper">
-            <a href="#" className="social-link w-inline-block">
+            <a href="https://twitter.com/ClairMeme" target="_blank" className="social-link w-inline-block">
               <svg
                 className="ikonik-gldea x"
                 xmlns="http://www.w3.org/2000/svg"
@@ -107,7 +107,7 @@ const Shibainu = ({ language }) => {
               </svg>
             </a>
 
-            <a href="#" className="social-link w-inline-block">
+            <a href="https://discord.gg/6qazb87D" target="_blank" className="social-link w-inline-block">
               <svg
                 className="ikonik-4fdvnl social-logo"
                 xmlns="http://www.w3.org/2000/svg"
@@ -125,7 +125,7 @@ const Shibainu = ({ language }) => {
                 />
               </svg>
             </a>
-            <a href="#" className="social-link w-inline-block">
+            <a href="https://t.me/Clair_meme" target="_blank" className="social-link w-inline-block">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width={46}
